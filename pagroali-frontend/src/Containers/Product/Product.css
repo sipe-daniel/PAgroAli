@@ -1,0 +1,19 @@
+.product-content {
+    max-width: 700px;
+    min-width: 300px;
+    margin: 100px auto;
+}
+
+.product-content h2 {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.product-content p {
+    font-size: 25px;
+}
+
+.product-code, .price-label {
+    font-weight: bold
+}
+

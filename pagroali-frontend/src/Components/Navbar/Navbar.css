@@ -1,0 +1,10 @@
+
+.items {
+    margin: 0 15px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.text-end {
+    float: left;
+}

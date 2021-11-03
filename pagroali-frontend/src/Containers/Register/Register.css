@@ -1,0 +1,11 @@
+.container-register {
+    max-width: 700px;
+    margin: 100px auto 0;
+    font-size: 25px;
+}
+
+
+h1.register {
+    font-weight: bold;
+    font-size: 44px;
+}
