@@ -5,6 +5,7 @@ This project consists in building a web application of maintenance management ag
 Back-end
 * Laravel framework
 * Mysql
+
 Front-end
 * Reactjs
 * Html, Css & bootstrap
