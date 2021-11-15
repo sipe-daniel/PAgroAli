@@ -1,11 +1,8 @@
 # Front-end
-* Reactjs
-* Html, Css & bootstrap
 
 ## Build with : 
-Back-end
-* Laravel framework
-* Mysql
+* Reactjs
+* Html, Css & bootstrap
 
 ## Front-end
 The different routes on the front-end side

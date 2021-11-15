@@ -1,6 +1,8 @@
 # PAgroAli
 This project consists in building a web application of maintenance management agrifood products.
 
+![](pagroali-frontend/Home.png)  
+
 ## Build with : 
 Back-end
 * Laravel framework
